@@ -16,7 +16,7 @@ Pharmacies management site in Django with complete documentation
 
 -   **Samuele Ferri**: [Site](https://samuelexferri.com), [GitHub](https://github.com/samuelexferri)
 -   **Michele Codazzi**
--   **Simone Sudati**
+-   **Simone Sudati**: [Site](https://simonesudati.com), [GitHub](https://github.com/SudatiSimone)
 
 ## Version
 
